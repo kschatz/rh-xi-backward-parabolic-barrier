@@ -21,9 +21,9 @@ A Pick-positivity argument then shows that the logarithmic derivative has no pol
 
 ## Companion notebook
 
-This repository also includes a companion Jupyter notebook with **stage-by-stage structural checks** for the analytic framework of the paper::
+This repository also includes a companion Jupyter notebook with **stage-by-stage structural checks** for the analytic framework of the paper:
 
-- `notebooks/rh_xi_backward_parabolic_barrier_checks.ipynb`
+- `rh_xi_backward_parabolic_barrier_checks.ipynb`
 
 The notebook:
 
@@ -46,7 +46,7 @@ The notebook is **not a formal proof assistant** and does not mechanise measure-
 - `schatz_riemann_hypothesis_backward_parabolic_positivity_barriers_xi_flow.pdf` – compiled preprint  
 - `README.md` – overview, abstract, and citation information  
 - `rh_xi_backward_parabolic_barrier_checks.ipynb` – companion Jupyter notebook
-- `LICENSE` – licensing terms for this repository (CC BY 4.0)  
+- `LICENSE.txt` – licensing terms for this repository (CC BY 4.0)  
 
 ---
 
