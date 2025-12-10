@@ -45,7 +45,8 @@ The notebook is **not a formal proof assistant** and does not mechanise measure-
 
 - `schatz_riemann_hypothesis_backward_parabolic_positivity_barriers_xi_flow.pdf` – compiled preprint  
 - `README.md` – overview, abstract, and citation information  
-- `notebooks/rh_xi_backward_parabolic_barrier_checks.ipynb` – companion Jupyter notebook  
+- `rh_xi_backward_parabolic_barrier_checks.ipynb` – companion Jupyter notebook
+- `LICENSE` – licensing terms for this repository (CC BY 4.0)  
 
 ---
 
