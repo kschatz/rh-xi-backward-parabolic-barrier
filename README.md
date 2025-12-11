@@ -39,6 +39,13 @@ The notebook:
 
 The notebook is **not a formal proof assistant** and does not mechanise measure-theoretic or deep functional-analytic steps. Its role is to make the algebraic and structural parts of the argument **transparent, testable, and linked back to specific lemmas in the paper.**
 
+## Run the notebook online
+
+You can run the companion Jupyter notebook in the browser. No local installation is required.
+
+- [Open in Google Colab](https://colab.research.google.com/github/kschatz/rh-xi-backward-parabolic-barrier/blob/HEAD/rh_xi_backward_parabolic_barrier_checks.ipynb)  
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kschatz/rh-xi-backward-parabolic-barrier/HEAD?filepath=rh_xi_backward_parabolic_barrier_checks.ipynb)
+  
 ---
 
 ## Repository contents
