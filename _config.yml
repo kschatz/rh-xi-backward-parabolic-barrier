@@ -20,5 +20,5 @@ baseurl: "/rh-xi-backward-parabolic-barrier"
 plugins:
   - jekyll-sitemap
 
-  # Cayman theme option (Github download button at top)
-show_downloads: true
+  # Cayman theme option (Github download zip and tar.gz at top of page)
+show_downloads: false
