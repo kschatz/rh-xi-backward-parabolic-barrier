@@ -1,10 +1,24 @@
+# Theme
 theme: jekyll-theme-cayman
-title: Backward Parabolic Positivity Barriers for the Xi Flow
-description: Preprint — DOI 10.5281/zenodo.17636625
-markdown: kramdown
 
+# Site identity
+title: Backward Parabolic Positivity Barriers for the Xi Flow
+description: Preprint manuscript and supplementary materials.
+lang: en
+timezone: Australia/Melbourne
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Canonical URL settings
 url: "https://kschatz.github.io"
 baseurl: "/rh-xi-backward-parabolic-barrier"
 
+# Plugins supported on GitHub Pages
 plugins:
   - jekyll-sitemap
+
+  # Cayman theme option (Github download button at top)
+show_downloads: true
