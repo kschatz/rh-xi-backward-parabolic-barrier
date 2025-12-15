@@ -5,7 +5,7 @@
 
 ## Overview
 
-We develop a **parabolic positivity method for the Riemann Xi function** based on **backward Carleman–Kato barriers** for the de Bruijn heat flow (the *Xi flow*). By propagating a positivity condition for a logarithmic derivative of the flowed Xi function back from de Bruijn’s real-zero time, and combining this with the Rodgers–Tao lower bound for the de Bruijn–Newman constant, the preprint argues that the de Bruijn–Newman constant satisfies Λ = 0, and hence that the Riemann Hypothesis holds.
+We develop a parabolic positivity method for the Riemann Xi function along the de Bruijn heat flow (the Xi flow). We construct backward Carleman-Kato barriers that propagate a positivity condition for a logarithmic derivative of the flowed Xi function backward from de Bruijn's real-zero time to the initial time. Combined with the Rodgers-Tao lower bound for the de Bruijn-Newman constant, the argument shows that this constant equals zero, and hence that the Riemann Hypothesis holds.
 
 ---
 
