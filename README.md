@@ -52,10 +52,10 @@ You can run the companion Jupyter notebook in the browser to reproduce the symbo
 
 - <a href="schatz_riemann_hypothesis_backward_parabolic_positivity_barriers_xi_flow.pdf">
   schatz_riemann_hypothesis_backward_parabolic_positivity_barriers_xi_flow.pdf – compiled preprint</a>
-- <a href="rh_xi_backward_parabolic_barrier_checks.ipynb">
-  rh_xi_backward_parabolic_barrier_checks.ipynb` – companion Jupyter notebook</a>
+- <a href="https://github.com/kschatz/rh-xi-backward-parabolic-barrier/blob/main/rh_xi_backward_parabolic_barrier_checks.ipynb">
+  rh_xi_backward_parabolic_barrier_checks.ipynb – companion Jupyter notebook</a>
 - `LICENSE.txt` – licensing terms for this repository (CC BY 4.0)
-- `README.md` – overview, abstract, and citation information  
+- `README.md` – overview, abstract, and citation information
 
 ---
 
