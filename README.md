@@ -1,11 +1,13 @@
 # Riemann Hypothesis: Backward Parabolic Positivity Barriers for the Xi Flow
 
+**Author:** Kevin Schatz
+
 **DOI:** [10.5281/zenodo.17636625](https://doi.org/10.5281/zenodo.17636625)<br>
 **PDF:** [Download preprint](https://zenodo.org/records/17636625/files/schatz_riemann_hypothesis_backward_parabolic_positivity_barriers_xi_flow.pdf)
 
 ## Overview
 
-We develop a parabolic positivity method for the Riemann Xi function along the de Bruijn heat flow (the Xi flow). We construct backward Carleman–Kato barriers that propagate a positivity condition for the imaginary part of a logarithmic derivative of the flowed Xi function backward from de Bruijn’s real-zero time to the initial time. Combined with the Rodgers–Tao lower bound for the de Bruijn–Newman constant, the argument shows that this constant equals zero, and hence that the Riemann Hypothesis holds.
+We develop a parabolic positivity method for the Riemann Xi function along the de Bruijn heat flow (the Xi flow). Using backward Carleman–Kato barriers, we propagate a positivity condition for the imaginary part of the negative logarithmic derivative of the flowed Xi function from de Bruijn’s real-zero time back to the initial time. Combined with the Rodgers–Tao lower bound for the de Bruijn–Newman constant, this yields that the constant equals zero, and hence that the Riemann Hypothesis holds.
 
 ---
 
