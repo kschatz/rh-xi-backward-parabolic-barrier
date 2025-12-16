@@ -5,17 +5,17 @@
 
 ## Overview
 
-We develop a parabolic positivity method for the Riemann Xi function along the de Bruijn heat flow (the Xi flow). We construct backward Carleman-Kato barriers that propagate a positivity condition for a logarithmic derivative of the flowed Xi function backward from de Bruijn's real-zero time to the initial time. Combined with the Rodgers-Tao lower bound for the de Bruijn-Newman constant, the argument shows that this constant equals zero, and hence that the Riemann Hypothesis holds.
+We develop a parabolic positivity method for the Riemann Xi function along the de Bruijn heat flow (the Xi flow). We construct backward Carleman–Kato barriers that propagate a positivity condition for the imaginary part of a logarithmic derivative of the flowed Xi function backward from de Bruijn’s real-zero time to the initial time. Combined with the Rodgers–Tao lower bound for the de Bruijn–Newman constant, the argument shows that this constant equals zero, and hence that the Riemann Hypothesis holds.
 
 ---
 
 ## Abstract
 
-We develop a parabolic positivity method for the Riemann Xi function along the de Bruijn heat flow (the “Xi flow”). We construct backward Carleman–Kato barriers that propagate nonnegativity of the imaginary part of the negative logarithmic derivative of the flowed Xi function from de Bruijn’s real-zero time back to time t = 0 throughout the upper half-plane.
+We develop a parabolic positivity method for the Riemann Xi function based on backward Carleman–Kato barriers for the de Bruijn heat flow (the “Xi flow”). Writing the de Bruijn deformation of the completed zeta function as a time-dependent Xi function obtained by heat-flow evolution, we construct a backward barrier that propagates nonnegativity of the imaginary part of the negative logarithmic derivative of the flowed Xi function from de Bruijn’s real-zero time back to the initial time, for all points in the upper half-plane.
 
-The barrier follows zero trajectories inside a time-local tube. High-order vanishing weights suppress singularities without dividing by vanishing factors. A relative-derivative calculus enforces extra damping on error terms. Thin temporal shoulders enable interior estimates, and a collision-bridging lemma (via dominated convergence) carries positivity through zero-collision times. On collision-free intervals we close the Carleman absorption by relating the Carleman parameter to the tube thickness using bounds on zero speeds.
+The barrier is built using a time-local tube around the moving zeros, together with a weight that vanishes algebraically of order greater than two, which suppresses the poles of the logarithmic derivative without dividing by a vanishing factor. Inside this tube, we introduce a relative-derivative calculus that forces all commutator error terms to carry a squared weight factor and to be dominated by the positive Carleman bulk contribution. Thin time shoulders allow the backward Carleman estimate to act on an interior time slab, and a collision-bridging lemma, based on dominated convergence, propagates the positivity condition across all zero-collision times.
 
-A Pick-positivity argument then shows that the logarithmic derivative has no poles in the upper half-plane, so the Xi function has no zeros there; by symmetry, all nontrivial zeros lie on the critical line. Combined with the Rodgers–Tao lower bound for the de Bruijn–Newman constant, we obtain Lambda = 0, and hence the Riemann Hypothesis.
+On each collision-free time component, we close the Carleman absorption under an explicit cubic relation between the Carleman parameter and the tube thickness, with constants depending only on an upper bound for the zero speeds. Iterating backward from de Bruijn’s real-zero time yields nonnegativity of the imaginary part of the negative logarithmic derivative of the Xi function in the upper half-plane at the initial time. A Pick-positivity argument then shows that the negative logarithmic derivative has no poles in the upper half-plane, and therefore that the Xi function has no zeros there. By evenness, all nontrivial zeros lie on the critical line. Combined with the Rodgers–Tao lower bound for the de Bruijn–Newman constant, this gives that the constant equals zero, and hence the Riemann Hypothesis.
 
 ---
 
@@ -50,10 +50,12 @@ You can run the companion Jupyter notebook in the browser to reproduce the symbo
 
 ## Repository contents
 
-- `schatz_riemann_hypothesis_backward_parabolic_positivity_barriers_xi_flow.pdf` – compiled preprint  
+- <a href="schatz_riemann_hypothesis_backward_parabolic_positivity_barriers_xi_flow.pdf">
+  schatz_riemann_hypothesis_backward_parabolic_positivity_barriers_xi_flow.pdf – compiled preprint</a>
+- <a href="rh_xi_backward_parabolic_barrier_checks.ipynb">
+  rh_xi_backward_parabolic_barrier_checks.ipynb` – companion Jupyter notebook</a>
+- `LICENSE.txt` – licensing terms for this repository (CC BY 4.0)
 - `README.md` – overview, abstract, and citation information  
-- `rh_xi_backward_parabolic_barrier_checks.ipynb` – companion Jupyter notebook
-- `LICENSE.txt` – licensing terms for this repository (CC BY 4.0)  
 
 ---
 
