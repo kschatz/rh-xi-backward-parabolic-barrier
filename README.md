@@ -1,4 +1,4 @@
-# Riemann Hypothesis: Backward Parabolic Positivity Barriers for the Xi Flow
+## Riemann Hypothesis: Backward Parabolic Positivity Barriers for the Xi Flow
 
 **Author:** Kevin Schatz
 
